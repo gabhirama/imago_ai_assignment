@@ -3,7 +3,7 @@
 ### Agents to build (simplified):
 
 Document Ingester: Basic PDF text extraction, identify image placeholders.
-Text Retriever: Basic TF-IDF or simple embeddings + FAISS.
+Text Retriever: Basic HF Space Sentence Transformer Embedding which can work on CPU
 Image "Agent" (very basic): If an image is mentioned, just note its presence. Maybe extract filename as metadata.
 Simple Orchestrator: Linear flow.
 Response Generator: LLM generating based on retrieved text, perhaps with a note like "[Image present here]".
