@@ -1,0 +1,10 @@
+pymupdf
+Pillow
+pytesseract
+langchain
+langchain-core
+langchain_huggingface
+langchain-google-genai
+langchain-pinecone
+langchain-community
+sentence-transformers
