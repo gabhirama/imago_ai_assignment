@@ -8,3 +8,8 @@ langchain-google-genai
 langchain-pinecone
 langchain-community
 sentence-transformers
+
+pandas
+openpyxl
+llama-parse
+llama-index
